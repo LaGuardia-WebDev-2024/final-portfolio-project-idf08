@@ -43,3 +43,9 @@ li a:hover:not(.active) {
 h1 {
   width: 100%;
 }
+
+body {
+  font-family: "IBM Plex Serif", serif;
+  font-weight: 100;
+  font-style: normal;
+}
